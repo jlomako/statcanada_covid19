@@ -1,5 +1,5 @@
 ﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
-"Weekly death counts, by age group and sex",13100768,,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076801","1;2;5;6;7;8;9;10;11;12;13;14;17","CURRENT - a cube available to the public and that is current",Weekly,2010-01-09,2020-08-01,4
+"Weekly death counts, by age group and sex",13100768,,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076801","1;2;5;6;7;8;9;10;11;12;13;14;17;18","CURRENT - a cube available to the public and that is current",Weekly,2010-01-09,2021-02-06,4
 
 "Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
 1,"Geography, place of occurrence",3,
@@ -61,18 +61,19 @@ terminated,t
 3,"The geographic distribution of deaths in this table is based on the deceased's place of death and for residents of Canada only."
 4,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period, (...) for figures not applicable and (x) for figures suppressed to meet the confidentiality requirements of the Statistics Act."
 5,"During the production of each month's death statistics, data from previous months/years may be revised to reflect any updates or changes that have been received from the provincial and territorial vital statistics offices."
-6,"The data for the 2018 to 2020 reference years are provisional."
-7,"2017 to 2020 data for Yukon are not available."
-8,"Due to improvements in methodology and timeliness, the duration of data collection has been shortened compared to previous years. Fewer deaths were captured by the time of release. The 2018, 2019, and 2020 data are provisional."
+6,"Data for the reference years 2020 and 2021 are provisional due to the shortened duration of data collection."
+7,"2017 to 2021 data for Yukon are not available."
+8,"Due to improvements in methodology and timeliness, the duration of data collection has been shortened compared to previous years. Fewer deaths were captured by the time of release. The 2017, 2018, and 2019 data are preliminary."
 9,"These are provisional death counts and may not match counts from other sources, such as media reports or counts from provincial or territorial health departments and other agencies. There are additional delays in receiving the data from the provincial and territorial vital statistics offices. Differences will also occur when different definitions and collection periods are used.  "
-10,"Statistics Canada’s capacity to provide useful and timely information is dependent on its ability to receive the information from the provinces and territories. For several jurisdictions this information is typically sent within 30 days of the death event, while for others it is sent 30 to 60 days, or more, following the death event."
-11,"These are provisional counts and subject to change. Care should be taken when making conclusions from provisional data as these counts will not include all deaths that occurred during this period. These counts will be revised as more records are received and processed."
-12,"Weeks are as defined in several epidemiological studies, including those of the United States Centers for Diseases Control and Prevention (CDC). CDC weeks start on a Sunday and end on a Saturday. They are numbered sequentially from 1 to 52 or 53 depending on the year. The first CDC week in a year ends on the first Saturday of January, provided it has at least four days in that calendar year. The first CDC week of a year may include a few days from the previous calendar year. Converseley, the first few days of a calendar year may be included in the last CDC week of the previous year. Since CDC weeks can overlap two months, they do not perfectly recreate calendar months or years."
+10,"Statistics Canada’s capacity to provide useful and timely information is dependent on its ability to receive the information from the provinces and territories. For several jurisdictions this information is typically sent within 30 days of the death event, while for others it is sent 30 to 60 days, or more, following the death event. For this reason, data for certain provinces and territories for certain weeks are suppressed."
+11,"These are provisional counts and subject to change. Care should be taken when making conclusions from provisional data as these counts will not include all deaths that occurred during this period, especially the most recent periods. These counts will be revised as more records are received and processed."
+12,"Weeks are as defined in several epidemiological studies, including those of the United States Centers for Diseases Control and Prevention (CDC). CDC weeks start on a Sunday and end on a Saturday. They are numbered sequentially from 1 to 52 or 53 depending on the year. The first CDC week in a year ends on the first Saturday of January, provided it has at least four days in that calendar year. The first CDC week of a year may include a few days from the previous calendar year. Conversely, the first few days of a calendar year may be included in the last CDC week of the previous year. Since CDC weeks can overlap two months, they do not perfectly recreate calendar months or years."
 13,"This real-time cube is designed to track changes in the death counts since their initial release. Typically, data are released as preliminary for a specific period, revised the following period based on new information and eventually revised in an annual or historical revision process."
 14,"Deaths for which the date of death are missing are excluded."
 15,"Deaths for all ages includes deaths with unknown age of deceased."
 16,"Deaths for both sexes includes deaths with unknown sex of deceased."
 17,"The counts in this table have been rounded to a neighbouring multiple of 5 to meet the confidentiality requirements of the Statistics Act."
+18,"The numbers for 2020 and 2021 presented in this table are provisional estimates that have been adjusted to account for reporting delays. These adjustments add to the counts to incorporate deaths not yet reported to Statistics Canada, based on past and current provincial and territorial reporting patterns. The provisional estimates will be revised in future releases as more information is reported."
 
 "Correction ID","Correction Date","Correction Note"
 
