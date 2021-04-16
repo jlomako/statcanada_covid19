@@ -1,6 +1,6 @@
 # statcanada_covid19
 Quebec was the province most affected by the COVID-19 pandemic in 2020. Here, R tidyverse packages are used to explore death counts and excess mortality rate in Quebec.
-Raw data was downloaded from Statistics Canada. 
+Raw data was downloaded from Statistics Canada. [R script see here](https://raw.githubusercontent.com/jlomako/statcanada_covid19/master/script.R).
 * Quebec and Canada were compared in terms of weekly death rates for the years 2010 to 2020
 ([Fig 1](https://raw.githubusercontent.com/jlomako/statcanada_covid19/master/Fig%201.png)). 
 * Quebecs average death rate was calculated and compared to the deaths reported in 2020 
